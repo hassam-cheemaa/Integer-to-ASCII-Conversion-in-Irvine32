@@ -23,9 +23,6 @@ The Irvine32 library, developed by Kip Irvine, is utilized for:
 - Memory Management: Macros for allocating and deallocating memory.
 - Utility Functions: Handling system interruptions, manipulating cursor positions, and managing special characters.
 
-## Data Flow Diagram
-[Data Flow Diagram Placeholder]
-
 ## Project Code
 
 The program is written in assembly language and makes use of the Irvine32 library for its operations. The following is a brief overview of the code structure:
@@ -59,6 +56,12 @@ The program produces the following outputs:
 2. Integer to ASCII conversion results.
 3. Feedback for invalid choices.
 4. Program exit message.
+
+### Authors
+
+Hassam Cheema
+Aadil Masaud
+Fabiha Mazhar
 
 ### Conclusion
 
