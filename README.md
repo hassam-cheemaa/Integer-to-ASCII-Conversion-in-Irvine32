@@ -59,9 +59,9 @@ The program produces the following outputs:
 
 ### Authors
 
-Hassam Cheema
-Aadil Masaud
-Fabiha Mazhar
+1. Hassam Cheema
+2. Aadil Masaud
+3. Fabiha Mazhar
 
 ### Conclusion
 
